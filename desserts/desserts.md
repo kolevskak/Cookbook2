@@ -26,7 +26,7 @@ Fold in the Egg Whites: Gently fold the whipped egg whites into the chocolate mi
 Chill and Serve: Spoon the mousse into serving glasses or bowls and refrigerate for at least 2 hours, or until set. Before serving, top with whipped cream and garnish with chocolate shavings or a dusting of cocoa powder, if desired.
 
 Tiramisu
-Tiramisu is an irresistible Italian dessert made from layers of coffee-soaked ladyfingers, rich mascarpone cream, and a dusting of cocoa powder. It’s a perfect balance of coffee, cream, and chocolate, making it a crowd-pleaser for any occasion.
+Tiramisu is a decadent Italian dessert that layers coffee-soaked ladyfingers with a rich mascarpone cream. Finished off with a dusting of cocoa powder, this dessert is a perfect balance of flavors—sweet, creamy, and slightly bitter from the coffee.
 
 Ingredients:
 6 large egg yolks
@@ -39,19 +39,32 @@ Ingredients:
 2 packs of ladyfingers (about 24-30 pieces)
 Unsweetened cocoa powder, for dusting
 Dark chocolate shavings (optional, for garnish)
+Prep Time: 30 minutes
+Cook Time: None (chill time: 4 hours or overnight)
+Servings: 8-10 servings
 Instructions:
-Make the Cream Mixture: In a large mixing bowl, whisk the egg yolks and sugar together until the mixture is pale and smooth. Add the mascarpone cheese and vanilla extract, and continue to whisk until well combined and creamy.
+Prepare the Mascarpone Cream:
 
-Whip the Cream: In a separate bowl, beat the heavy cream until stiff peaks form. Gently fold the whipped cream into the mascarpone mixture until smooth and well combined.
+In a large mixing bowl, whisk the egg yolks and sugar together until pale and smooth.
+Add the mascarpone cheese and vanilla extract to the mixture, whisking until smooth and fully combined.
+Whip the Cream:
 
-Prepare the Coffee Soak: In a shallow dish, combine the brewed espresso (or coffee) with the coffee liqueur (if using). Stir to combine.
+In a separate bowl, beat the heavy cream with an electric mixer on high speed until stiff peaks form. This may take 3-4 minutes.
+Gently fold the whipped cream into the mascarpone mixture using a spatula. Be careful not to deflate the whipped cream; fold until just combined.
+Prepare the Coffee Soak:
 
-Assemble the Tiramisu: Quickly dip each ladyfinger into the coffee mixture for about 1-2 seconds, making sure not to soak them too long. Arrange a layer of the soaked ladyfingers at the bottom of a 9x13-inch dish (or individual serving cups if preferred).
+In a shallow dish, combine the brewed espresso (or strong coffee) and coffee liqueur (if using). Stir to combine. Let the coffee cool to room temperature.
+Assemble the Tiramisu:
 
-Layer the Cream: Spread half of the mascarpone cream mixture over the ladyfingers. Smooth it out into an even layer.
+Quickly dip each ladyfinger into the coffee mixture for 1-2 seconds. Do not soak them; they should be moist but not soggy.
+Arrange a layer of dipped ladyfingers at the bottom of a 9x13-inch dish (or use individual cups for serving).
+Spread half of the mascarpone cream mixture evenly over the ladyfingers.
+Repeat Layers:
 
-Repeat the Layers: Add another layer of dipped ladyfingers on top of the cream, followed by the remaining mascarpone mixture. Spread the cream evenly over the top.
+Add another layer of dipped ladyfingers on top of the cream layer. Follow with the remaining mascarpone cream and smooth it out evenly.
+Chill:
 
-Chill and Set: Cover the tiramisu with plastic wrap and refrigerate for at least 4 hours, or preferably overnight. This allows the flavors to meld and the dessert to set.
+Cover the tiramisu with plastic wrap and refrigerate for at least 4 hours, but preferably overnight. This allows the flavors to meld and the dessert to set properly.
+Serve and Garnish:
 
-Garnish and Serve: Before serving, dust the top with a generous layer of unsweetened cocoa powder. For extra flair, garnish with dark chocolate shavings or cocoa nibs.
+Before serving, dust the top with unsweetened cocoa powder using a fine-mesh sieve. Garnish with dark chocolate shavings or cocoa nibs if desired.
