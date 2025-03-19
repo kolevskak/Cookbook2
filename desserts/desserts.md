@@ -1,4 +1,7 @@
 Chocolate Mousse
+
+A rich and velvety dessert made with melted chocolate, whipped cream, and eggs. Light, airy, and irresistibly smooth, it's the perfect sweet treat for any occasion! 
+
 Chocolate mousse is the ultimate indulgence—a velvety, airy dessert that combines the richness of chocolate with a light, fluffy texture. Perfect for special occasions or a sweet treat after a meal, this mousse is surprisingly easy to make and always a hit.
 
 Ingredients:
@@ -55,3 +58,4 @@ Repeat the Layers: Add another layer of dipped ladyfingers on top of the cream, 
 Chill and Set: Cover the tiramisu with plastic wrap and refrigerate for at least 4 hours, or preferably overnight. This allows the flavors to meld and the dessert to set.
 
 Garnish and Serve: Before serving, dust the top with a generous layer of unsweetened cocoa powder. For extra flair, garnish with dark chocolate shavings or cocoa nibs.
+
