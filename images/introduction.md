@@ -1,1 +1,0 @@
-![Tasty Sandwich](https://images.unsplash.com/photo-1553909489-cd47e0907980?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2FuZHdpY2h8ZW58MHx8MHx8fDA%3D)
