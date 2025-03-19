@@ -1,15 +1,12 @@
 Chocolate Mousse
 
-A rich and velvety dessert made with melted chocolate, whipped cream, and eggs. Light, airy, and ir>
+A rich and velvety dessert made with melted chocolate, whipped cream, and eggs. Light, airy, and irresistibly smooth, it's the perfect sweet treat for any occasion! 
 
-Chocolate mousse is the ultimate indulgence—a velvety, airy dessert that combines the richness of c>
+Chocolate mousse is the ultimate indulgence—a velvety, airy dessert that combines the richness of chocolate with a light, fluffy texture. Perfect for special occasions or a sweet treat after a meal, this mousse is surprisingly easy to make and always a hit.
 
 Ingredients:
 200g (7 oz) dark chocolate (70% cocoa recommended)
 3 large eggs, separated
-
-1/4 cup g
-
 1/4 cup granulated sugar
 1/2 teaspoon vanilla extract
 1 cup heavy cream
@@ -33,7 +30,6 @@ Chill and Serve: Spoon the mousse into serving glasses or bowls and refrigerate 
 
 Tiramisu
 Tiramisu is a decadent Italian dessert that layers coffee-soaked ladyfingers with a rich mascarpone cream. Finished off with a dusting of cocoa powder, this dessert is a perfect balance of flavors—sweet, creamy, and slightly bitter from the coffee.
-
 
 Ingredients:
 6 large egg yolks
