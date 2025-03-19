@@ -79,4 +79,4 @@ Before serving, dust the top with unsweetened cocoa powder using a fine-mesh sie
 
 Garnish and Serve: Before serving, dust the top with a generous layer of unsweetened cocoa powder. For extra flair, garnish with dark chocolate shavings or cocoa nibs.
 
-
+Serving size: 10
