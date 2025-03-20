@@ -26,3 +26,10 @@ Spoon or pipe the yolk mixture back into the egg whites, filling each half gener
 
 5️⃣ Garnish and Serve
 Sprinkle with paprika for a pop of color and flavor. Optionally, garnish with fresh parsley. Serve chilled.
+
+
+Bruschetta 🍅🥖
+A classic Italian appetizer featuring crispy toasted bread topped with a fresh tomato, basil, and garlic mixture. Drizzle with olive oil and balsamic glaze for extra flavor. Perfect for any gathering!
+
+Caprese Bruschetta Variation 🍅🥖🧀
+For a delicious  twist, top your bruschetta with fresh mozzarella slices and a drizzle of balsamic glaze. This Caprese-style version adds a creamy, tangy balance to the traditional flavors, making it even more irresistible!
