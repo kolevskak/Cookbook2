@@ -44,7 +44,7 @@ Sprinkle with paprika for a pop of color and flavor. Optionally, garnish with fr
 
 A classic Italian appetizer featuring crispy toasted bread topped with a fresh tomato, basil, and garlic mixture. Drizzle with olive oil and balsamic glaze for extra flavor. Perfect for any gathering!
 
-![Bruschetta Images](https://unsplash.com/photos/two-pieces-of-bread-with-tomatoes-and-basil-on-top-KWJGiDgb5Ls)
+![Bruschetta-Image](https://unsplash.com/photos/two-pieces-of-bread-with-tomatoes-and-basil-on-top-KWJGiDgb5Ls)
 
 ## 🍅🥖🧀 Caprese Bruschetta Variation
 
