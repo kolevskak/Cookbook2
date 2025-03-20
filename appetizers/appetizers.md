@@ -46,4 +46,5 @@ A classic Italian appetizer featuring crispy toasted bread topped with a fresh t
 
 ## 🍅🥖🧀 Caprese Bruschetta Variation
 
+
 For a delicious twist, top your bruschetta with fresh mozzarella slices and a drizzle of balsamic glaze. This Caprese-style version adds a creamy, tangy balance to the traditional flavors, making it even more irresistible!

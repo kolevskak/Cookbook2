@@ -53,6 +53,26 @@ Spoon the mousse into serving glasses or bowls and refrigerate for **at least 2 
 
 Tiramisu is a decadent Italian dessert that layers **coffee-soaked ladyfingers** with a **rich mascarpone cream**. Finished off with a dusting of cocoa powder, this dessert is a perfect balance of flavors—sweet, creamy, and slightly bitter from the coffee.
 
+
+Serving size: 10
+
+Tiramisu Recipe
+Description:
+Tiramisu is a classic Italian dessert made with layers of coffee-soaked ladyfingers and a creamy mascarpone mixture. It’s simple to prepare and perfect for any occasion.
+
+Ingredients:
+Coffee mixture: 2 cups coffee, 2 tbsp coffee liqueur (optional), 1 tbsp sugar (optional)
+Mascarpone mixture: 4 egg yolks, 1 cup sugar, 1 tsp vanilla, 1 ¼ cups mascarpone, 1 cup heavy cream, ¼ cup powdered sugar
+Assembly: 1 pack ladyfingers, cocoa powder (for dusting)
+Instructions:
+Brew coffee: Brew 2 cups of strong coffee, then cool.
+Make mascarpone mixture: Whisk egg yolks and sugar, heat over simmering water. Add vanilla and fold in mascarpone.
+Whip cream: Whip heavy cream with powdered sugar until stiff peaks form. Fold into mascarpone mixture.
+Assemble: Dip ladyfingers into coffee mixture and layer in a dish. Spread half the mascarpone mixture on top. Repeat layers.
+Chill: Refrigerate for at least 4 hours (overnight for best results).
+Serve: Dust with cocoa powder before serving.
+
+=======
 ### ⏳ Prep Time: 30 minutes
 
 ⏱ **Chill Time:** 4 hours (or overnight)  
@@ -110,3 +130,4 @@ Tiramisu is a decadent Italian dessert that layers **coffee-soaked ladyfingers**
 - Optionally, garnish with **dark chocolate shavings** or **cocoa nibs**.
 
 🍽 **Serving Size:** 10
+
