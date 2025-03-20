@@ -53,4 +53,4 @@ A simple yet flavorful dish with salmon fillets grilled to perfection. Lightly s
 - Pair with *grilled vegetables or salad.* 
 
 ### Image 
-[Grilled-salmon](https://images.unsplash.com/photo-1611599537845-1c7aca0091c0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Grilled-salmon](https://images.unsplash.com/photo-1611599537845-1c7aca0091c0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
