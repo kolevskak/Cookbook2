@@ -20,3 +20,4 @@ Fill the Eggs: Spoon or pipe the yolk mixture back into the egg whites, filling 
 
 Garnish and Serve: Sprinkle with paprika for a pop of color and flavor. Optionally, garnish with fresh parsley for a fresh touch. Serve chilled.
 
+Serving size 5.
