@@ -47,12 +47,13 @@ Spoon the mousse into serving glasses or bowls and refrigerate for **at least 2 
 
 **Garnish:** Before serving, top with whipped cream and garnish with chocolate shavings or a dusting of cocoa powder, if desired.
 
+![Chocolate-Mousse](/images/desserts/choco-mousse.jpg)
+
 ---
 
 # 🍰 Tiramisu
 
 Tiramisu is a decadent Italian dessert that layers **coffee-soaked ladyfingers** with a **rich mascarpone cream**. Finished off with a dusting of cocoa powder, this dessert is a perfect balance of flavors—sweet, creamy, and slightly bitter from the coffee.
-
 
 Serving size: 10
 
@@ -73,6 +74,7 @@ Chill: Refrigerate for at least 4 hours (overnight for best results).
 Serve: Dust with cocoa powder before serving.
 
 =======
+
 ### ⏳ Prep Time: 30 minutes
 
 ⏱ **Chill Time:** 4 hours (or overnight)  
@@ -131,3 +133,4 @@ Serve: Dust with cocoa powder before serving.
 
 🍽 **Serving Size:** 10
 
+![Tiramisu](/images/desserts/tiramisu.jpg)
