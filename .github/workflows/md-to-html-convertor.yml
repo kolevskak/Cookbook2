@@ -1,8 +1,23 @@
-name: Convert MD to HTML
+name: Convert Markdown to HTML
 on: [push]
+
 jobs:
-  build:
+  convert:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: pandoc input.md -o output.html
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Install Dependencies
+        run: npm install marked
+      - name: Convert Markdown to HTML
+        run: node convert.js
+      - name: Commit Output
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add output.html
+          git commit -m "Auto-converted Markdown to HTML"
+          git push
