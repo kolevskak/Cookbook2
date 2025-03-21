@@ -1,17 +1,24 @@
 const fs = require("fs");
-const marked = require("marked");
+const { marked } = require("marked");
 
-// Read the Markdown file
-fs.readFile("input.md", "utf-8", (err, data) => {
+fs.readFile("introduction.md", "utf-8", (err, data) => {
   if (err) {
     console.error("Error reading file:", err);
     return;
   }
 
-  // Convert Markdown to HTML
-  const htmlContent = marked.parse(data);
+  const htmlContent = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Converted Markdown</title>
+</head>
+<body>
+  ${marked.parse(data)}
+</body>
+</html>`;
 
-  // Save it as an HTML file
   fs.writeFile("output.html", htmlContent, (err) => {
     if (err) {
       console.error("Error writing file:", err);
