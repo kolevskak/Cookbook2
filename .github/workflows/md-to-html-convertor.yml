@@ -1,8 +1,0 @@
-name: Convert MD to HTML
-on: [push]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - run: pandoc input.md -o output.html
