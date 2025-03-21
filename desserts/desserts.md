@@ -47,7 +47,7 @@ Spoon the mousse into serving glasses or bowls and refrigerate for **at least 2 
 
 **Garnish:** Before serving, top with whipped cream and garnish with chocolate shavings or a dusting of cocoa powder, if desired.
 
-![Chocolate-Mousse](/images/desserts/choco-mousse.jpg)
+![Chocolate-Mousse](images/desserts/choco-mousse.jpg)
 
 ---
 
@@ -133,4 +133,4 @@ Serve: Dust with cocoa powder before serving.
 
 🍽 **Serving Size:** 10
 
-![Tiramisu](/images/desserts/tiramisu.jpg)
+![Tiramisu](images/desserts/tiramisu.jpg)
