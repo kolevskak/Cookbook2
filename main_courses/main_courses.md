@@ -35,7 +35,7 @@ Traditional carbonara is best made with **spaghetti**, but you can also use **ri
 - Never add cream—carbonara gets its creaminess from eggs and cheese.
 - Work quickly when mixing to prevent the eggs from scrambling.
 
-![Spaghetti-Carbonara](/images/main_courses/carbonara.jpg)
+![Spaghetti-Carbonara](images/main_courses/carbonara.jpg)
 
 # Grilled Salmon
 
@@ -75,4 +75,4 @@ _Wild-caught salmon_ like **King, Sockeye, or Coho** has a firm texture and rich
 - Marinate for _30 minutes_ for deeper taste.
 - Pair with _grilled vegetables or salad._
 
-![Grilled-Salmon](/images/main_courses/salmon.jpg)
+![Grilled-Salmon](images/main_courses/salmon.jpg)

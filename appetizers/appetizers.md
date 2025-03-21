@@ -5,7 +5,7 @@ Deviled eggs are a classic appetizer that’s both easy to make and always a cro
 ### ⏲ Total Time: 20 minutes
 
 **Prep:** 10 min | **Cook:** 10 min
-![Deviled-Eggs](/images/appetizers/eggs.jpg)
+![Deviled-Eggs](images/appetizers/eggs.jpg)
 
 ## 🛒 Ingredients
 
@@ -49,4 +49,4 @@ A classic Italian appetizer featuring crispy toasted bread topped with a fresh t
 
 For a delicious twist, top your bruschetta with fresh mozzarella slices and a drizzle of balsamic glaze. This Caprese-style version adds a creamy, tangy balance to the traditional flavors, making it even more irresistible!
 
-![Bruschetta-Images](/images/appetizers/bruschetta.jpg)
+![Bruschetta-Images](images/appetizers/bruschetta.jpg)
