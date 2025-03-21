@@ -2,9 +2,9 @@ name: Convert Markdown to HTML
 on:
   push:
     branches:
-      - main  # Runs only on pushes to the main branch (optional, adjust as needed)
+      - main
       - Convert-to-HTML
-  pull_request:  # Runs on PRs too, useful for previewing changes
+  pull_request:
     branches:
       - main
       - Convert-to-HTML
